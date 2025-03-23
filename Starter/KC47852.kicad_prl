@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
     "hidden_netclasses": [],
@@ -30,37 +30,28 @@
     },
     "visible_items": [
       "vias",
-<<<<<<< HEAD
       "footprint_text",
+      "footprint_anchors",
       "ratsnest",
       "footprints_front",
       "footprints_back",
       "footprint_values",
       "footprint_references",
       "tracks",
-      "pads",
-      "shapes"
-    ],
-    "visible_layers": "00000000_00000000_0f7f7dff_fffffffa",
-=======
-      "ratsnest",
-      "grid",
-      "footprints_front",
-      "footprints_back",
-      "tracks",
       "drc_errors",
+      "drawing_sheet",
       "bitmaps",
       "pads",
       "zones",
       "drc_warnings",
+      "locked_item_shadows",
+      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0f7f7dff_ffffffff",
->>>>>>> 20d0a620fecb2cde45e5361e66d7f8a19b04efe7
+    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
-    "repo_password": "",
     "repo_type": "",
     "repo_username": "",
     "ssh_key": ""
@@ -95,16 +86,16 @@
       9
     ],
     "col_widths": [
-      294,
-      279,
-      173,
-      120,
-      173,
-      173,
-      173,
-      126,
-      173,
-      173
+      186,
+      171,
+      112,
+      79,
+      112,
+      112,
+      112,
+      83,
+      112,
+      112
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
