@@ -3448,7 +3448,7 @@
 	(footprint "ECE319K:PTA2043pot"
 		(layer "F.Cu")
 		(uuid "2e0265a8-424d-4973-899f-fb1f297c0def")
-		(at 171.565 140.49)
+		(at 118.905 118.55)
 		(descr "Bourns single-gang slide potentiometer, 20.0mm travel, https://www.bourns.com/docs/Product-Datasheets/pta.pdf")
 		(tags "Bourns single-gang slide potentiometer 20.0mm")
 		(property "Reference" "RV1"
@@ -7444,7 +7444,7 @@
 	(footprint "ECE319K:hiletgo_st7735r"
 		(layer "F.Cu")
 		(uuid "7f1de1ab-aa4a-4d11-a99b-04c4f44a2cba")
-		(at 223.225001 78.270526)
+		(at 136.400001 -15.804474)
 		(property "Reference" "U4"
 			(at -12.7 24.765 0)
 			(layer "F.SilkS")
