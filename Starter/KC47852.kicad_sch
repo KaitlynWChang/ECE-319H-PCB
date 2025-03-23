@@ -6046,6 +6046,10 @@
 		(uuid "6368ce76-9439-4719-a103-f735429e3dd6")
 	)
 	(no_connect
+		(at 83.82 168.91)
+		(uuid "63cdb769-7880-421b-841b-5bcb9089cfa1")
+	)
+	(no_connect
 		(at 154.94 46.355)
 		(uuid "77d3c321-36d0-45e4-b6cb-e89c2b5a8b30")
 	)
@@ -13127,7 +13131,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 156.21 97.155 0)
 			(effects
 				(font
@@ -13146,6 +13150,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x05, script generated"
+			(at 156.21 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" ""
+			(at 156.21 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
+			(at 156.21 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB #" ""
 			(at 156.21 97.155 0)
 			(effects
 				(font
@@ -13605,7 +13636,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical"
 			(at 130.81 104.775 0)
 			(effects
 				(font
@@ -13624,6 +13655,33 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x09, script generated"
+			(at 130.81 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser #" ""
+			(at 130.81 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Link" ""
+			(at 130.81 104.775 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB #" ""
 			(at 130.81 104.775 0)
 			(effects
 				(font

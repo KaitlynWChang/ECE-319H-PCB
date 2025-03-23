@@ -30,6 +30,7 @@
     },
     "visible_items": [
       "vias",
+<<<<<<< HEAD
       "footprint_text",
       "ratsnest",
       "footprints_front",
@@ -41,6 +42,21 @@
       "shapes"
     ],
     "visible_layers": "00000000_00000000_0f7f7dff_fffffffa",
+=======
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "tracks",
+      "drc_errors",
+      "bitmaps",
+      "pads",
+      "zones",
+      "drc_warnings",
+      "shapes"
+    ],
+    "visible_layers": "00000000_00000000_0f7f7dff_ffffffff",
+>>>>>>> 20d0a620fecb2cde45e5361e66d7f8a19b04efe7
     "zone_display_mode": 0
   },
   "git": {
