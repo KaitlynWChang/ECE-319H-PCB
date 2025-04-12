@@ -5916,22 +5916,10 @@
 		(uuid "90363dec-5f1d-4b6a-9c65-02683afa23ad")
 	)
 	(junction
-		(at 160.655 55.245)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9349a9b1-7404-45a3-8195-44a30c4b14fd")
-	)
-	(junction
 		(at 138.43 143.51)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "990bbe11-4337-45cc-8c09-2f9184964971")
-	)
-	(junction
-		(at 164.465 55.245)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9cb096a2-f865-4b42-94f3-8907f595d65e")
 	)
 	(junction
 		(at 46.99 153.67)
@@ -6631,16 +6619,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.655 55.245) (xy 164.465 55.245)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5499205f-e21a-464c-a330-5a1a092b5fc1")
-	)
-	(wire
-		(pts
 			(xy 43.18 166.37) (xy 46.99 166.37)
 		)
 		(stroke
@@ -7001,16 +6979,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 55.245) (xy 160.655 55.245)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8329dcd8-e7e4-4c2f-afe3-fa5929513f92")
-	)
-	(wire
-		(pts
 			(xy 46.99 147.32) (xy 49.53 147.32)
 		)
 		(stroke
@@ -7301,7 +7269,7 @@
 	)
 	(wire
 		(pts
-			(xy 164.465 55.245) (xy 167.64 55.245)
+			(xy 158.75 55.245) (xy 167.64 55.245)
 		)
 		(stroke
 			(width 0)
@@ -11820,75 +11788,6 @@
 			(project "Starter"
 				(path "/69b823fd-c065-40ff-9bb9-c5835555f3eb"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ECE319K:Testpoint")
-		(at 162.56 55.245 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7655a965-d879-459c-b0fc-21331a3fdd10")
-		(property "Reference" "J6"
-			(at 162.56 50.165 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 166.37 51.7524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "ECE319K:Testpoint_1x02_P2.54mm"
-			(at 162.56 49.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 162.56 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 162.56 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "0dd5d019-240b-4ca6-bb31-c55910d8706c")
-		)
-		(pin "2"
-			(uuid "1ef7af9c-1869-4f6d-805b-04e538b47a3c")
-		)
-		(instances
-			(project "Starter"
-				(path "/69b823fd-c065-40ff-9bb9-c5835555f3eb"
-					(reference "J6")
 					(unit 1)
 				)
 			)
